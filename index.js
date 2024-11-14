@@ -37,7 +37,7 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["🎮 Playing Genshin Impact✨", "🍩 Assisting Trix", "🎧 Listening to Spotify"];
+const statusMessages = ["🎧 Listening to Spotify", "🍩 Assisting Trix", "🎮 Playing Genshin Impact✨"];
 const statusTypes = [ 'online', 'dnd', 'idle'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
@@ -85,17 +85,19 @@ login();
 /*
 
 ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
-                                                 
-  _________ ___ ___ ._______   _________    
- /   _____//   |   \|   \   \ /   /  _  \   
- \_____  \/    ~    \   |\   Y   /  /_\  \  
- /        \    Y    /   | \     /    |    \ 
-/_______  /\___|_  /|___|  \___/\____|__  / 
-        \/       \/                     \/  
-                    
-DISCORD :  https://discord.com/invite/xQF9f9yUEM                   
-YouTube : https://www.youtube.com/@GlaceYT                         
-                                                                       
-☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
+
+ _______                               __ ___________      .__        
+ \      \  __ __  __________________ _/  |\__    ___/______|__|__  ___
+ /   |   \|  |  \/  ___/\_  __ \__  \\   __\|    |  \_  __ \  \  \/  /
+/    |    \  |  /\___ \  |  | \// __ \|  |  |    |   |  | \/  |>    < 
+\____|__  /____//____  > |__|  (____  /__|  |____|   |__|  |__/__/\_ \
+        \/           \/             \/                              \/
+
+Instagram   : https://www.instagram.com/
+Discord     : disord.com/7ecWhMVeTV
+X / Twitter : https://www.x.com/@nusrattrix
+
+⋆⁺｡˚⋆˙‧₊☽ ◯ ☾₊‧˙⋆˚｡⁺⋆   ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋   ⋆⁺｡˚⋆˙‧₊☽ ◯ ☾₊‧˙⋆˚｡⁺⋆
+
 
 */
