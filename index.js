@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["🎧 Listening to Spotify", "🍩 Assisting Trix", "🎮 Playing Genshin Impact✨"];
-const statusTypes = [ 'online', 'dnd', 'idle'];
+const statusTypes = [ 'idle', 'dnd', 'online'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
