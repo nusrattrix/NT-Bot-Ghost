@@ -94,7 +94,7 @@ login();
         \/           \/             \/                              \/
 
 Instagram   : https://www.instagram.com/
-Discord     : disord.com/7ecWhMVeTV
+Discord     : disord.gg/7ecWhMVeTV
 X / Twitter : https://www.x.com/@nusrattrix
 
 ⋆⁺｡˚⋆˙‧₊☽ ◯ ☾₊‧˙⋆˚｡⁺⋆   ‧₊ ˚  ⊹ ࣭ ⭑ . ₊ ⊹ .₊๋   ⋆⁺｡˚⋆˙‧₊☽ ◯ ☾₊‧˙⋆˚｡⁺⋆
